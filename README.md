@@ -18,7 +18,7 @@ Both results show that the DFA accepts strings ending with `01`.
 ![Screenshot 2025-11-01 173406](https://github.com/user-attachments/assets/58da426d-c12f-415f-989d-b0be2b74bffb)
 
 ***
-# Lab Activity #1 - NFA Simulation (Multiple Next States)
+# Lab Activity #2 - NFA Simulation (Multiple Next States)
 
 **Objective:** Build an NFA simulator for strings containing ab as a substring.
 
